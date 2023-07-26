@@ -1,0 +1,7 @@
+Thang: 2
+Doanh thu: 120000000 dong
+Chi phi nguyen lieu: 13500000 dong
+Chi phi mat bang: 20000000 dong
+Chi phi nhan vien: 10000000 dong
+Chi phi van chuyen: 1000000 dong
+Loi nhuan cua quan cafe thang 2 la: 75500000 dong

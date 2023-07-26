@@ -1,0 +1,6 @@
+cafe,0,10
+nuoc cam,0,15
+tra dao,0,15
+tra tac,0,15
+tra sua,0,20
+olong,0,17

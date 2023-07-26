@@ -1,0 +1,29 @@
+Vo Thanh Phuc,178,Sliver Member,167,5,5
+
+
+
+Nguyen Huu Phuoc,123,Golden Member,428,18,10
+
+
+
+Hung Manh,456,Diamond Member,500,0,15
+
+
+
+Phu,789,VIP Member,1000,0,20
+
+
+
+Tran Tieu Anh Tuan,222,Sliver Member,100,0,5
+
+
+
+Trung Nguyen,90,Sliver Member,100,0,5
+
+
+
+Kiet,333,Sliver Member,5,1,5
+
+
+
+Phung,112,Sliver Member,350,14,5

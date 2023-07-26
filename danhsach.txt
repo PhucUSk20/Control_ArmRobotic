@@ -1,0 +1,57 @@
+7
+Nguyen Thi ngoc mai
+Long Thanh
+Nu
+Pha che
+sang
+24 5 2006
+HGV13
+0 6 0 0 0 0 0 0
+Le Thanh Long Hai
+Binh Duong
+Nam
+Pha che
+sang
+27 11 2003
+Hds34
+0 5 0 0 0 0 0 0
+Tranh Van Hung
+Binh Binh
+Nu
+Pha che
+sang
+24 9 1998
+frasa
+0 7 0 0 0 0 0 0
+Vo Thanh Phuc
+1
+nam
+CEO
+full ca
+17 8 2002
+178
+0 10 0 0 0 0 0 0
+Phung
+2
+nam
+Quan ly
+sang
+2 2 2002
+2
+5000000 7 0 3 6 5 0 0
+Nguyen Phu
+12 Luong Dinh Cua
+Nam
+Pha che
+Chieu
+24 7 2002
+FG678
+4000000 0 0 0 0 0 0 0
+Nguyen Hung Manh
+239 Truong Cong Dinh
+Nam
+Pha che
+Sang
+14 1 2002
+KJ213
+4000000 0 0 0 0 0 0 0
